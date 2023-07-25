@@ -1,0 +1,9 @@
+{
+  "name": "btashchuk-full-js",
+  "version": "1.0.0",
+  "description": "JavaScript - Полный Курс JavaScript Для Начинающих [11 ЧАСОВ]",
+  "main": "index.js",
+  "repository": "git@github.com:amidmvp/btashchuk-full-js.git",
+  "author": "amidmvp <amidmvp@ro.ru>",
+  "license": "MIT"
+}
