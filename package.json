@@ -6,6 +6,7 @@
   "repository": "git@github.com:amidmvp/btashchuk-full-js.git",
   "author": "amidmvp <amidmvp@ro.ru>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "lint": "eslint --cache \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint:fix": "eslint --cache --fix \"src/**/*.{js,jsx,ts,tsx}\""
