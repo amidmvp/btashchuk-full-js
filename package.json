@@ -16,7 +16,11 @@
     }
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx}": "yarn run lint:fix"
+    "*.{js,jsx,ts,tsx}": [
+      "eslint --fix",
+      "prettier --write",
+      "git add"
+    ]
   },
   "devDependencies": {
     "eslint": "^8.45.0",
